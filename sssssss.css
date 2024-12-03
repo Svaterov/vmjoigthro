@@ -1,5 +1,5 @@
 .menu {
-    background-color: #C7F83E;
+    background-color: #cea774;
     padding: 20px;
 }
 
@@ -11,6 +11,11 @@ ul {
 ul li {
     display: inline-block;
     margin: 0 15px;
-    color: #7D0057;
+    color: #ffffff;
     font-size: 30px;
+}
+
+html {
+    background-image: url(aaaaaaa.jpg);
+background-repeat: no-repeat;
 }

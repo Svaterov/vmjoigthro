@@ -1,0 +1,24 @@
+html {
+    background-image: url(chashkakofe.jpg) ;
+    background-size: cover;
+
+}
+
+tr {
+    color: rgb(255, 255, 255);
+}
+
+table {
+    width: 450px;
+    height: 300px;
+    margin: auto;
+    background-color: rgba(110, 63, 0, 0.822);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 5%;
+}
+
+
+.padding {
+    margin: auto;
+}
